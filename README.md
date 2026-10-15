@@ -96,3 +96,4 @@ Security
 
 Responsive
 - [ ] At ~375px wide there's no horizontal scrolling, and actions wrap under the habit name.
+# Habit-Tracker
